@@ -1,0 +1,8 @@
+D:\Nexgen\C#\linee\linee\bin\Debug\linee.exe.config
+D:\Nexgen\C#\linee\linee\bin\Debug\linee.exe
+D:\Nexgen\C#\linee\linee\bin\Debug\linee.pdb
+D:\Nexgen\C#\linee\linee\obj\Debug\linee.csproj.AssemblyReference.cache
+D:\Nexgen\C#\linee\linee\obj\Debug\linee.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\linee\linee\obj\Debug\linee.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\linee\linee\obj\Debug\linee.exe
+D:\Nexgen\C#\linee\linee\obj\Debug\linee.pdb

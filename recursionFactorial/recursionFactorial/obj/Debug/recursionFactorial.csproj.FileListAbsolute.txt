@@ -1,0 +1,8 @@
+D:\Nexgen\C#\recursionFactorial\recursionFactorial\obj\Debug\recursionFactorial.csproj.AssemblyReference.cache
+D:\Nexgen\C#\recursionFactorial\recursionFactorial\obj\Debug\recursionFactorial.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\recursionFactorial\recursionFactorial\obj\Debug\recursionFactorial.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\recursionFactorial\recursionFactorial\bin\Debug\recursionFactorial.exe.config
+D:\Nexgen\C#\recursionFactorial\recursionFactorial\bin\Debug\recursionFactorial.exe
+D:\Nexgen\C#\recursionFactorial\recursionFactorial\bin\Debug\recursionFactorial.pdb
+D:\Nexgen\C#\recursionFactorial\recursionFactorial\obj\Debug\recursionFactorial.exe
+D:\Nexgen\C#\recursionFactorial\recursionFactorial\obj\Debug\recursionFactorial.pdb
