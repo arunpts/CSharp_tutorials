@@ -1,0 +1,8 @@
+D:\Nexgen\C#\propertiess\propertiess\bin\Debug\propertiess.exe.config
+D:\Nexgen\C#\propertiess\propertiess\bin\Debug\propertiess.exe
+D:\Nexgen\C#\propertiess\propertiess\bin\Debug\propertiess.pdb
+D:\Nexgen\C#\propertiess\propertiess\obj\Debug\propertiess.csproj.AssemblyReference.cache
+D:\Nexgen\C#\propertiess\propertiess\obj\Debug\propertiess.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\propertiess\propertiess\obj\Debug\propertiess.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\propertiess\propertiess\obj\Debug\propertiess.exe
+D:\Nexgen\C#\propertiess\propertiess\obj\Debug\propertiess.pdb

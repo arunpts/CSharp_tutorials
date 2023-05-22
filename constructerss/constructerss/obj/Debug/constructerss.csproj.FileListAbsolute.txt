@@ -1,0 +1,8 @@
+D:\Nexgen\C#\constructerss\constructerss\bin\Debug\constructerss.exe.config
+D:\Nexgen\C#\constructerss\constructerss\bin\Debug\constructerss.exe
+D:\Nexgen\C#\constructerss\constructerss\bin\Debug\constructerss.pdb
+D:\Nexgen\C#\constructerss\constructerss\obj\Debug\constructerss.csproj.AssemblyReference.cache
+D:\Nexgen\C#\constructerss\constructerss\obj\Debug\constructerss.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\constructerss\constructerss\obj\Debug\constructerss.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\constructerss\constructerss\obj\Debug\constructerss.exe
+D:\Nexgen\C#\constructerss\constructerss\obj\Debug\constructerss.pdb

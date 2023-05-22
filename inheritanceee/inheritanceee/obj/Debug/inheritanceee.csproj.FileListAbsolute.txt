@@ -1,0 +1,8 @@
+D:\Nexgen\C#\inheritanceee\inheritanceee\bin\Debug\inheritanceee.exe.config
+D:\Nexgen\C#\inheritanceee\inheritanceee\bin\Debug\inheritanceee.exe
+D:\Nexgen\C#\inheritanceee\inheritanceee\bin\Debug\inheritanceee.pdb
+D:\Nexgen\C#\inheritanceee\inheritanceee\obj\Debug\inheritanceee.csproj.AssemblyReference.cache
+D:\Nexgen\C#\inheritanceee\inheritanceee\obj\Debug\inheritanceee.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\inheritanceee\inheritanceee\obj\Debug\inheritanceee.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\inheritanceee\inheritanceee\obj\Debug\inheritanceee.exe
+D:\Nexgen\C#\inheritanceee\inheritanceee\obj\Debug\inheritanceee.pdb

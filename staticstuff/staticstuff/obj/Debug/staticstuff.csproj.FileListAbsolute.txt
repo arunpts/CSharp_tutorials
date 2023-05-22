@@ -1,0 +1,8 @@
+D:\Nexgen\C#\staticstuff\staticstuff\bin\Debug\staticstuff.exe.config
+D:\Nexgen\C#\staticstuff\staticstuff\bin\Debug\staticstuff.exe
+D:\Nexgen\C#\staticstuff\staticstuff\bin\Debug\staticstuff.pdb
+D:\Nexgen\C#\staticstuff\staticstuff\obj\Debug\staticstuff.csproj.AssemblyReference.cache
+D:\Nexgen\C#\staticstuff\staticstuff\obj\Debug\staticstuff.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\staticstuff\staticstuff\obj\Debug\staticstuff.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\staticstuff\staticstuff\obj\Debug\staticstuff.exe
+D:\Nexgen\C#\staticstuff\staticstuff\obj\Debug\staticstuff.pdb
