@@ -1,0 +1,8 @@
+D:\Nexgen\C#\genricCollectionss\genricCollectionss\bin\Debug\genricCollectionss.exe.config
+D:\Nexgen\C#\genricCollectionss\genricCollectionss\bin\Debug\genricCollectionss.exe
+D:\Nexgen\C#\genricCollectionss\genricCollectionss\bin\Debug\genricCollectionss.pdb
+D:\Nexgen\C#\genricCollectionss\genricCollectionss\obj\Debug\genricCollectionss.csproj.AssemblyReference.cache
+D:\Nexgen\C#\genricCollectionss\genricCollectionss\obj\Debug\genricCollectionss.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\genricCollectionss\genricCollectionss\obj\Debug\genricCollectionss.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\genricCollectionss\genricCollectionss\obj\Debug\genricCollectionss.exe
+D:\Nexgen\C#\genricCollectionss\genricCollectionss\obj\Debug\genricCollectionss.pdb
