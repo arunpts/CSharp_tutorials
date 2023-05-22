@@ -1,0 +1,8 @@
+D:\Nexgen\C#\exceptionHandlingg\exceptionHandlingg\bin\Debug\exceptionHandlingg.exe.config
+D:\Nexgen\C#\exceptionHandlingg\exceptionHandlingg\bin\Debug\exceptionHandlingg.exe
+D:\Nexgen\C#\exceptionHandlingg\exceptionHandlingg\bin\Debug\exceptionHandlingg.pdb
+D:\Nexgen\C#\exceptionHandlingg\exceptionHandlingg\obj\Debug\exceptionHandlingg.csproj.AssemblyReference.cache
+D:\Nexgen\C#\exceptionHandlingg\exceptionHandlingg\obj\Debug\exceptionHandlingg.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\exceptionHandlingg\exceptionHandlingg\obj\Debug\exceptionHandlingg.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\exceptionHandlingg\exceptionHandlingg\obj\Debug\exceptionHandlingg.exe
+D:\Nexgen\C#\exceptionHandlingg\exceptionHandlingg\obj\Debug\exceptionHandlingg.pdb

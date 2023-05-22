@@ -1,0 +1,8 @@
+D:\Nexgen\C#\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+D:\Nexgen\C#\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+D:\Nexgen\C#\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+D:\Nexgen\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.AssemblyReference.cache
+D:\Nexgen\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+D:\Nexgen\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb

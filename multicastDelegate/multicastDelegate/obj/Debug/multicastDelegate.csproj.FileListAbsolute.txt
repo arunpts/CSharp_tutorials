@@ -1,0 +1,8 @@
+D:\Nexgen\C#\multicastDelegate\multicastDelegate\obj\Debug\multicastDelegate.csproj.AssemblyReference.cache
+D:\Nexgen\C#\multicastDelegate\multicastDelegate\obj\Debug\multicastDelegate.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\multicastDelegate\multicastDelegate\obj\Debug\multicastDelegate.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\multicastDelegate\multicastDelegate\bin\Debug\multicastDelegate.exe.config
+D:\Nexgen\C#\multicastDelegate\multicastDelegate\bin\Debug\multicastDelegate.exe
+D:\Nexgen\C#\multicastDelegate\multicastDelegate\bin\Debug\multicastDelegate.pdb
+D:\Nexgen\C#\multicastDelegate\multicastDelegate\obj\Debug\multicastDelegate.exe
+D:\Nexgen\C#\multicastDelegate\multicastDelegate\obj\Debug\multicastDelegate.pdb

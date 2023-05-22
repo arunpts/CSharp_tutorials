@@ -1,0 +1,8 @@
+D:\Nexgen\C#\delegatess\delegatess\bin\Debug\delegatess.exe.config
+D:\Nexgen\C#\delegatess\delegatess\bin\Debug\delegatess.exe
+D:\Nexgen\C#\delegatess\delegatess\bin\Debug\delegatess.pdb
+D:\Nexgen\C#\delegatess\delegatess\obj\Debug\delegatess.csproj.AssemblyReference.cache
+D:\Nexgen\C#\delegatess\delegatess\obj\Debug\delegatess.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\delegatess\delegatess\obj\Debug\delegatess.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\delegatess\delegatess\obj\Debug\delegatess.exe
+D:\Nexgen\C#\delegatess\delegatess\obj\Debug\delegatess.pdb

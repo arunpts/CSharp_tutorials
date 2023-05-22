@@ -1,0 +1,8 @@
+D:\Nexgen\C#\fornaming\fornaming\bin\Debug\fornaming.exe.config
+D:\Nexgen\C#\fornaming\fornaming\bin\Debug\fornaming.exe
+D:\Nexgen\C#\fornaming\fornaming\bin\Debug\fornaming.pdb
+D:\Nexgen\C#\fornaming\fornaming\obj\Debug\fornaming23.csproj.AssemblyReference.cache
+D:\Nexgen\C#\fornaming\fornaming\obj\Debug\fornaming23.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\fornaming\fornaming\obj\Debug\fornaming23.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\fornaming\fornaming\obj\Debug\fornaming.exe
+D:\Nexgen\C#\fornaming\fornaming\obj\Debug\fornaming.pdb
