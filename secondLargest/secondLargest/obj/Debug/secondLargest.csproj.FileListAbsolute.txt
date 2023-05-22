@@ -1,0 +1,8 @@
+D:\Nexgen\C#\secondLargest\secondLargest\obj\Debug\secondLargest.csproj.AssemblyReference.cache
+D:\Nexgen\C#\secondLargest\secondLargest\obj\Debug\secondLargest.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\secondLargest\secondLargest\obj\Debug\secondLargest.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\secondLargest\secondLargest\bin\Debug\secondLargest.exe.config
+D:\Nexgen\C#\secondLargest\secondLargest\bin\Debug\secondLargest.exe
+D:\Nexgen\C#\secondLargest\secondLargest\bin\Debug\secondLargest.pdb
+D:\Nexgen\C#\secondLargest\secondLargest\obj\Debug\secondLargest.exe
+D:\Nexgen\C#\secondLargest\secondLargest\obj\Debug\secondLargest.pdb

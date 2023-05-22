@@ -1,0 +1,8 @@
+D:\Nexgen\C#\stringMethodss\stringMethodss\bin\Debug\stringMethodss.exe.config
+D:\Nexgen\C#\stringMethodss\stringMethodss\bin\Debug\stringMethodss.exe
+D:\Nexgen\C#\stringMethodss\stringMethodss\bin\Debug\stringMethodss.pdb
+D:\Nexgen\C#\stringMethodss\stringMethodss\obj\Debug\stringMethodss.csproj.AssemblyReference.cache
+D:\Nexgen\C#\stringMethodss\stringMethodss\obj\Debug\stringMethodss.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\stringMethodss\stringMethodss\obj\Debug\stringMethodss.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\stringMethodss\stringMethodss\obj\Debug\stringMethodss.exe
+D:\Nexgen\C#\stringMethodss\stringMethodss\obj\Debug\stringMethodss.pdb

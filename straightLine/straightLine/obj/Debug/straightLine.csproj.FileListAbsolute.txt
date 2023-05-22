@@ -1,0 +1,8 @@
+D:\Nexgen\C#\straightLine\straightLine\bin\Debug\straightLine.exe.config
+D:\Nexgen\C#\straightLine\straightLine\bin\Debug\straightLine.exe
+D:\Nexgen\C#\straightLine\straightLine\bin\Debug\straightLine.pdb
+D:\Nexgen\C#\straightLine\straightLine\obj\Debug\straightLine.csproj.AssemblyReference.cache
+D:\Nexgen\C#\straightLine\straightLine\obj\Debug\straightLine.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\straightLine\straightLine\obj\Debug\straightLine.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\straightLine\straightLine\obj\Debug\straightLine.exe
+D:\Nexgen\C#\straightLine\straightLine\obj\Debug\straightLine.pdb

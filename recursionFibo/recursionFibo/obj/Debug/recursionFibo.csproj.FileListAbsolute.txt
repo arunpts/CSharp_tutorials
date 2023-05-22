@@ -1,0 +1,8 @@
+D:\Nexgen\C#\recursionFibo\recursionFibo\bin\Debug\recursionFibo.exe.config
+D:\Nexgen\C#\recursionFibo\recursionFibo\bin\Debug\recursionFibo.exe
+D:\Nexgen\C#\recursionFibo\recursionFibo\bin\Debug\recursionFibo.pdb
+D:\Nexgen\C#\recursionFibo\recursionFibo\obj\Debug\recursionFibo.csproj.AssemblyReference.cache
+D:\Nexgen\C#\recursionFibo\recursionFibo\obj\Debug\recursionFibo.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\recursionFibo\recursionFibo\obj\Debug\recursionFibo.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\recursionFibo\recursionFibo\obj\Debug\recursionFibo.exe
+D:\Nexgen\C#\recursionFibo\recursionFibo\obj\Debug\recursionFibo.pdb
