@@ -1,8 +1,0 @@
-D:\Nexgen\C#\typecasting\typecasting\bin\Debug\typecasting.exe.config
-D:\Nexgen\C#\typecasting\typecasting\bin\Debug\typecasting.exe
-D:\Nexgen\C#\typecasting\typecasting\bin\Debug\typecasting.pdb
-D:\Nexgen\C#\typecasting\typecasting\obj\Debug\typecasting.csproj.AssemblyReference.cache
-D:\Nexgen\C#\typecasting\typecasting\obj\Debug\typecasting.csproj.SuggestedBindingRedirects.cache
-D:\Nexgen\C#\typecasting\typecasting\obj\Debug\typecasting.csproj.CoreCompileInputs.cache
-D:\Nexgen\C#\typecasting\typecasting\obj\Debug\typecasting.exe
-D:\Nexgen\C#\typecasting\typecasting\obj\Debug\typecasting.pdb
