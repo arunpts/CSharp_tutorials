@@ -1,0 +1,8 @@
+D:\Nexgen\C#\arryaofObjects\arryaofObjects\bin\Debug\arryaofObjects.exe.config
+D:\Nexgen\C#\arryaofObjects\arryaofObjects\bin\Debug\arryaofObjects.exe
+D:\Nexgen\C#\arryaofObjects\arryaofObjects\bin\Debug\arryaofObjects.pdb
+D:\Nexgen\C#\arryaofObjects\arryaofObjects\obj\Debug\arryaofObjects.csproj.AssemblyReference.cache
+D:\Nexgen\C#\arryaofObjects\arryaofObjects\obj\Debug\arryaofObjects.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\arryaofObjects\arryaofObjects\obj\Debug\arryaofObjects.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\arryaofObjects\arryaofObjects\obj\Debug\arryaofObjects.exe
+D:\Nexgen\C#\arryaofObjects\arryaofObjects\obj\Debug\arryaofObjects.pdb

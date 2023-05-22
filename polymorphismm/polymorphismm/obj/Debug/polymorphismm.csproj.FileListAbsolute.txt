@@ -1,0 +1,8 @@
+D:\Nexgen\C#\polymorphismm\polymorphismm\bin\Debug\polymorphismm.exe.config
+D:\Nexgen\C#\polymorphismm\polymorphismm\bin\Debug\polymorphismm.exe
+D:\Nexgen\C#\polymorphismm\polymorphismm\bin\Debug\polymorphismm.pdb
+D:\Nexgen\C#\polymorphismm\polymorphismm\obj\Debug\polymorphismm.csproj.AssemblyReference.cache
+D:\Nexgen\C#\polymorphismm\polymorphismm\obj\Debug\polymorphismm.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\polymorphismm\polymorphismm\obj\Debug\polymorphismm.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\polymorphismm\polymorphismm\obj\Debug\polymorphismm.exe
+D:\Nexgen\C#\polymorphismm\polymorphismm\obj\Debug\polymorphismm.pdb

@@ -1,0 +1,8 @@
+D:\Nexgen\C#\toStringg\toStringg\bin\Debug\toStringg.exe.config
+D:\Nexgen\C#\toStringg\toStringg\bin\Debug\toStringg.exe
+D:\Nexgen\C#\toStringg\toStringg\bin\Debug\toStringg.pdb
+D:\Nexgen\C#\toStringg\toStringg\obj\Debug\toStringg.csproj.AssemblyReference.cache
+D:\Nexgen\C#\toStringg\toStringg\obj\Debug\toStringg.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\toStringg\toStringg\obj\Debug\toStringg.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\toStringg\toStringg\obj\Debug\toStringg.exe
+D:\Nexgen\C#\toStringg\toStringg\obj\Debug\toStringg.pdb

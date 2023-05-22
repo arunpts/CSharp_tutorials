@@ -1,0 +1,8 @@
+D:\Nexgen\C#\absrtactClass\absrtactClass\bin\Debug\absrtactClass.exe.config
+D:\Nexgen\C#\absrtactClass\absrtactClass\bin\Debug\absrtactClass.exe
+D:\Nexgen\C#\absrtactClass\absrtactClass\bin\Debug\absrtactClass.pdb
+D:\Nexgen\C#\absrtactClass\absrtactClass\obj\Debug\absrtactClass.csproj.AssemblyReference.cache
+D:\Nexgen\C#\absrtactClass\absrtactClass\obj\Debug\absrtactClass.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\absrtactClass\absrtactClass\obj\Debug\absrtactClass.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\absrtactClass\absrtactClass\obj\Debug\absrtactClass.exe
+D:\Nexgen\C#\absrtactClass\absrtactClass\obj\Debug\absrtactClass.pdb
