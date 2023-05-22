@@ -1,0 +1,8 @@
+D:\Nexgen\C#\hypotenuse\hypotenuse\bin\Debug\hypotenuse.exe.config
+D:\Nexgen\C#\hypotenuse\hypotenuse\bin\Debug\hypotenuse.exe
+D:\Nexgen\C#\hypotenuse\hypotenuse\bin\Debug\hypotenuse.pdb
+D:\Nexgen\C#\hypotenuse\hypotenuse\obj\Debug\hypotenuse.csproj.AssemblyReference.cache
+D:\Nexgen\C#\hypotenuse\hypotenuse\obj\Debug\hypotenuse.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\hypotenuse\hypotenuse\obj\Debug\hypotenuse.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\hypotenuse\hypotenuse\obj\Debug\hypotenuse.exe
+D:\Nexgen\C#\hypotenuse\hypotenuse\obj\Debug\hypotenuse.pdb

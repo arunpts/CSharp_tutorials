@@ -1,0 +1,8 @@
+D:\Nexgen\C#\loopss\loopss\bin\Debug\loopss.exe.config
+D:\Nexgen\C#\loopss\loopss\bin\Debug\loopss.exe
+D:\Nexgen\C#\loopss\loopss\bin\Debug\loopss.pdb
+D:\Nexgen\C#\loopss\loopss\obj\Debug\loopss.csproj.AssemblyReference.cache
+D:\Nexgen\C#\loopss\loopss\obj\Debug\loopss.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\loopss\loopss\obj\Debug\loopss.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\loopss\loopss\obj\Debug\loopss.exe
+D:\Nexgen\C#\loopss\loopss\obj\Debug\loopss.pdb

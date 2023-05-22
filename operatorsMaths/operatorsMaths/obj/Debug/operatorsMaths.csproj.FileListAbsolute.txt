@@ -1,0 +1,8 @@
+D:\Nexgen\C#\operatorsMaths\operatorsMaths\bin\Debug\operatorsMaths.exe.config
+D:\Nexgen\C#\operatorsMaths\operatorsMaths\bin\Debug\operatorsMaths.exe
+D:\Nexgen\C#\operatorsMaths\operatorsMaths\bin\Debug\operatorsMaths.pdb
+D:\Nexgen\C#\operatorsMaths\operatorsMaths\obj\Debug\operatorsMaths.csproj.AssemblyReference.cache
+D:\Nexgen\C#\operatorsMaths\operatorsMaths\obj\Debug\operatorsMaths.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\operatorsMaths\operatorsMaths\obj\Debug\operatorsMaths.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\operatorsMaths\operatorsMaths\obj\Debug\operatorsMaths.exe
+D:\Nexgen\C#\operatorsMaths\operatorsMaths\obj\Debug\operatorsMaths.pdb
