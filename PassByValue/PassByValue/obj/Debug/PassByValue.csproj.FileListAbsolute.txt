@@ -1,0 +1,8 @@
+D:\Nexgen\C#\PassByValue\PassByValue\bin\Debug\PassByValue.exe.config
+D:\Nexgen\C#\PassByValue\PassByValue\bin\Debug\PassByValue.exe
+D:\Nexgen\C#\PassByValue\PassByValue\bin\Debug\PassByValue.pdb
+D:\Nexgen\C#\PassByValue\PassByValue\obj\Debug\PassByValue.csproj.AssemblyReference.cache
+D:\Nexgen\C#\PassByValue\PassByValue\obj\Debug\PassByValue.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\PassByValue\PassByValue\obj\Debug\PassByValue.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\PassByValue\PassByValue\obj\Debug\PassByValue.exe
+D:\Nexgen\C#\PassByValue\PassByValue\obj\Debug\PassByValue.pdb

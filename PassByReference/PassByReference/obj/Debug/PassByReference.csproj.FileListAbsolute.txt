@@ -1,0 +1,8 @@
+D:\Nexgen\C#\PassByReference\PassByReference\bin\Debug\PassByReference.exe.config
+D:\Nexgen\C#\PassByReference\PassByReference\bin\Debug\PassByReference.exe
+D:\Nexgen\C#\PassByReference\PassByReference\bin\Debug\PassByReference.pdb
+D:\Nexgen\C#\PassByReference\PassByReference\obj\Debug\PassByReference.csproj.AssemblyReference.cache
+D:\Nexgen\C#\PassByReference\PassByReference\obj\Debug\PassByReference.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\PassByReference\PassByReference\obj\Debug\PassByReference.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\PassByReference\PassByReference\obj\Debug\PassByReference.exe
+D:\Nexgen\C#\PassByReference\PassByReference\obj\Debug\PassByReference.pdb
