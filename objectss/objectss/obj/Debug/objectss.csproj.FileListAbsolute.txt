@@ -1,0 +1,8 @@
+D:\Nexgen\C#\objectss\objectss\bin\Debug\objectss.exe.config
+D:\Nexgen\C#\objectss\objectss\bin\Debug\objectss.exe
+D:\Nexgen\C#\objectss\objectss\bin\Debug\objectss.pdb
+D:\Nexgen\C#\objectss\objectss\obj\Debug\objectss.csproj.AssemblyReference.cache
+D:\Nexgen\C#\objectss\objectss\obj\Debug\objectss.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\objectss\objectss\obj\Debug\objectss.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\objectss\objectss\obj\Debug\objectss.exe
+D:\Nexgen\C#\objectss\objectss\obj\Debug\objectss.pdb

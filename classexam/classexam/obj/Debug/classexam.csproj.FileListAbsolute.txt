@@ -1,0 +1,8 @@
+D:\Nexgen\C#\classexam\classexam\bin\Debug\classexam.exe.config
+D:\Nexgen\C#\classexam\classexam\bin\Debug\classexam.exe
+D:\Nexgen\C#\classexam\classexam\bin\Debug\classexam.pdb
+D:\Nexgen\C#\classexam\classexam\obj\Debug\classexam.csproj.AssemblyReference.cache
+D:\Nexgen\C#\classexam\classexam\obj\Debug\classexam.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\classexam\classexam\obj\Debug\classexam.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\classexam\classexam\obj\Debug\classexam.exe
+D:\Nexgen\C#\classexam\classexam\obj\Debug\classexam.pdb

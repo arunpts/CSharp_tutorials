@@ -1,0 +1,8 @@
+D:\Nexgen\C#\paramsMethods\paramsMethods\obj\Debug\paramsMethods.csproj.AssemblyReference.cache
+D:\Nexgen\C#\paramsMethods\paramsMethods\obj\Debug\paramsMethods.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\paramsMethods\paramsMethods\obj\Debug\paramsMethods.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\paramsMethods\paramsMethods\bin\Debug\paramsMethods.exe.config
+D:\Nexgen\C#\paramsMethods\paramsMethods\bin\Debug\paramsMethods.exe
+D:\Nexgen\C#\paramsMethods\paramsMethods\bin\Debug\paramsMethods.pdb
+D:\Nexgen\C#\paramsMethods\paramsMethods\obj\Debug\paramsMethods.exe
+D:\Nexgen\C#\paramsMethods\paramsMethods\obj\Debug\paramsMethods.pdb
