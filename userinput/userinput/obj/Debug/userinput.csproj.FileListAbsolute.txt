@@ -1,0 +1,8 @@
+D:\Nexgen\C#\userinput\userinput\obj\Debug\userinput.csproj.AssemblyReference.cache
+D:\Nexgen\C#\userinput\userinput\obj\Debug\userinput.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\userinput\userinput\obj\Debug\userinput.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\userinput\userinput\bin\Debug\userinput.exe.config
+D:\Nexgen\C#\userinput\userinput\bin\Debug\userinput.exe
+D:\Nexgen\C#\userinput\userinput\bin\Debug\userinput.pdb
+D:\Nexgen\C#\userinput\userinput\obj\Debug\userinput.exe
+D:\Nexgen\C#\userinput\userinput\obj\Debug\userinput.pdb
