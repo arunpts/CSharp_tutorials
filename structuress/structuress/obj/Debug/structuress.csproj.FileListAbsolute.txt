@@ -1,0 +1,8 @@
+D:\Nexgen\C#\structuress\structuress\bin\Debug\structuress.exe.config
+D:\Nexgen\C#\structuress\structuress\bin\Debug\structuress.exe
+D:\Nexgen\C#\structuress\structuress\bin\Debug\structuress.pdb
+D:\Nexgen\C#\structuress\structuress\obj\Debug\structuress.csproj.AssemblyReference.cache
+D:\Nexgen\C#\structuress\structuress\obj\Debug\structuress.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\structuress\structuress\obj\Debug\structuress.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\structuress\structuress\obj\Debug\structuress.exe
+D:\Nexgen\C#\structuress\structuress\obj\Debug\structuress.pdb

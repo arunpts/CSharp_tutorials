@@ -1,0 +1,8 @@
+D:\Nexgen\C#\abstarctClass2\abstarctClass2\obj\Debug\abstarctClass2.csproj.AssemblyReference.cache
+D:\Nexgen\C#\abstarctClass2\abstarctClass2\obj\Debug\abstarctClass2.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\abstarctClass2\abstarctClass2\obj\Debug\abstarctClass2.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\abstarctClass2\abstarctClass2\bin\Debug\abstarctClass2.exe.config
+D:\Nexgen\C#\abstarctClass2\abstarctClass2\bin\Debug\abstarctClass2.exe
+D:\Nexgen\C#\abstarctClass2\abstarctClass2\bin\Debug\abstarctClass2.pdb
+D:\Nexgen\C#\abstarctClass2\abstarctClass2\obj\Debug\abstarctClass2.exe
+D:\Nexgen\C#\abstarctClass2\abstarctClass2\obj\Debug\abstarctClass2.pdb

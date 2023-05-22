@@ -1,0 +1,8 @@
+D:\Nexgen\C#\interfacess\interfacess\bin\Debug\interfacess.exe.config
+D:\Nexgen\C#\interfacess\interfacess\bin\Debug\interfacess.exe
+D:\Nexgen\C#\interfacess\interfacess\bin\Debug\interfacess.pdb
+D:\Nexgen\C#\interfacess\interfacess\obj\Debug\interfacess.csproj.AssemblyReference.cache
+D:\Nexgen\C#\interfacess\interfacess\obj\Debug\interfacess.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\interfacess\interfacess\obj\Debug\interfacess.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\interfacess\interfacess\obj\Debug\interfacess.exe
+D:\Nexgen\C#\interfacess\interfacess\obj\Debug\interfacess.pdb

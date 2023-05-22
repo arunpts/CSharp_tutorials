@@ -1,0 +1,8 @@
+D:\Nexgen\C#\enumTest\enumTest\bin\Debug\enumTest.exe.config
+D:\Nexgen\C#\enumTest\enumTest\bin\Debug\enumTest.exe
+D:\Nexgen\C#\enumTest\enumTest\bin\Debug\enumTest.pdb
+D:\Nexgen\C#\enumTest\enumTest\obj\Debug\enumTest.csproj.AssemblyReference.cache
+D:\Nexgen\C#\enumTest\enumTest\obj\Debug\enumTest.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\enumTest\enumTest\obj\Debug\enumTest.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\enumTest\enumTest\obj\Debug\enumTest.exe
+D:\Nexgen\C#\enumTest\enumTest\obj\Debug\enumTest.pdb

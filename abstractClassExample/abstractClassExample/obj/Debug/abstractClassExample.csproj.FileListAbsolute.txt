@@ -1,0 +1,8 @@
+D:\Nexgen\C#\abstractClassExample\abstractClassExample\bin\Debug\abstractClassExample.exe.config
+D:\Nexgen\C#\abstractClassExample\abstractClassExample\bin\Debug\abstractClassExample.exe
+D:\Nexgen\C#\abstractClassExample\abstractClassExample\bin\Debug\abstractClassExample.pdb
+D:\Nexgen\C#\abstractClassExample\abstractClassExample\obj\Debug\abstractClassExample.csproj.AssemblyReference.cache
+D:\Nexgen\C#\abstractClassExample\abstractClassExample\obj\Debug\abstractClassExample.csproj.SuggestedBindingRedirects.cache
+D:\Nexgen\C#\abstractClassExample\abstractClassExample\obj\Debug\abstractClassExample.csproj.CoreCompileInputs.cache
+D:\Nexgen\C#\abstractClassExample\abstractClassExample\obj\Debug\abstractClassExample.exe
+D:\Nexgen\C#\abstractClassExample\abstractClassExample\obj\Debug\abstractClassExample.pdb
